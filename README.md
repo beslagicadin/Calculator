@@ -15,6 +15,12 @@ A simple Android calculator application built with Java.
 - Android SDK
 - XML layouts
 
+## Screenshots
+
+| Main Screen | Result |
+|-------------|--------|
+| Input field with operators | Calculated result displayed |
+
 ## Getting Started
 
 1. Clone the repository
@@ -23,8 +29,8 @@ A simple Android calculator application built with Java.
 
 ## Requirements
 
-- Android Studio
-- Android SDK (minSdk 21)
+- Android Studio Hedgehog or later
+- Android SDK (minSdk 21, targetSdk 34)
 
 ## License
 
