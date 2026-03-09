@@ -5,9 +5,10 @@ A simple Android calculator application built with Java.
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
-- Clean and intuitive interface
+- Clean and intuitive Material Design interface
 - Handles decimal numbers
 - Error handling for division by zero
+- Persistent calculation history within the session
 
 ## Tech Stack
 
